@@ -6,7 +6,7 @@ const eventSchema = Schema({
         type:String,
         required: true
     },
-    note:{
+    notes:{
         type:String
     },
     start:{
